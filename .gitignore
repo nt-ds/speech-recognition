@@ -130,3 +130,6 @@ dmypy.json
 
 # data
 /data
+
+# jupyter notebook checkpoints
+/notebooks/.ipynb_checkpoints
