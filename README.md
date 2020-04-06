@@ -30,7 +30,7 @@
 						validation
 							30 folders with png files
 							
-				raw (obtained from https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
+				raw (obtained from [Kaggle](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge))
 					test
 						'audio' folder with wav files
 						
