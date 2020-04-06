@@ -133,3 +133,6 @@ dmypy.json
 
 # jupyter notebook checkpoints
 /notebooks/.ipynb_checkpoints
+
+# .idea
+/.idea
