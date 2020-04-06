@@ -32,7 +32,7 @@
 							
 				raw (obtained from https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
 					test
-						'audio' folder with 158538 files
+						'audio' folder with wav files
 						
 					train
 						audio
