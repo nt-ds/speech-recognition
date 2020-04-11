@@ -40,7 +40,16 @@
 						README.md
 						testing_list.txt
 						validation_list.txt
+			
+			models (saved models with weights and their performances)
+				oscillograms
+					6 hdf5 files and 6 png files
+				
+				spectrograms
+					18 hdf5 files and 18 png files
 						
 			notebooks (executable code)
+			
+			result (evaluations of the best model)
 			
 			src (source code)
